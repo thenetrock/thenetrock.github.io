@@ -1,0 +1,47 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_7b016bd8 a { text-decoration: none; }
+#menu_7b016bd8_pane { background-color: #313131; border: 1px solid #646464; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_7b016bd8_hr { background-color: #646464; height: 1px; border: none; }
+#menu_7b016bd8_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_7b016bd8_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_7b016bd8_entry:hover span { color:#FFFFFF !important; }
+		.menu_7b016bd8_mainMenuEntry { text-align: center; }
+		.menu_7b016bd8_mainMenuEntry:hover {	background-color:#8B8B8B; }
+		.menu_7b016bd8_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_7b016bd8 .mobileEntry { display: none; } 
+		#menu_7b016bd8 .normalEntry { display: block; } 
+		@media only screen and (max-width:450px) { 
+			#menu_7b016bd8 .mobileEntry { display: block; } 
+			#menu_7b016bd8 .normalEntry { display: none; } 
+		}
+body { background-color:#000000; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_144d08a2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1024px; background:none;  }
+#container_144d08a2_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:left; }
+#container_76c147a8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:38px; background-color:#252525;  }
+#container_76c147a8_padding { margin: 5px; display: block;  }
+#container_47c8314 { vertical-align: top; position:relative; display: inline-block; width:35%; min-height:51px; background-color:rgba(37, 37, 37, 0.8);  }
+#container_47c8314_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; line-height: 1.5;  }
+.textstyle4 { font-size:36pt; font-family:'Segoe Script', 'Palatino Linotype', serif; color:#FFFFFF; line-height: 1.5; text-shadow: 2px 2px 2px #000000;  }
+.textstyle5 { font-size:36pt; font-family:'Segoe Script', 'Palatino Linotype', serif; color:#FFFFFF; line-height: 1.5;  }
+#slide_4a8d779a { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:768px; background-color:#EFEFEF; background: linear-gradient(to bottom, #7F7F7F, #EFEFEF);  }
+#container_63b62da2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:212px; background-color:#EEDED0;  }
+#container_63b62da2_padding { margin: 10px; display: block;  }
+#container_15221285 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:192px; background-color:#252525;  }
+#container_15221285_padding { margin: 10px; display: block;  }
+.textstyle6 { font-size:24pt; font-family:'Segoe Script', 'Palatino Linotype', serif; color:#FFFFFF; line-height: 1.5;  }
+.textstyle7 { font-size:14pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; line-height: 1.5;  }
+#menu_7b016bd8 { vertical-align: bottom; position:relative; display: inline-block; width:300px; height:38px; text-align:left; background:none;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.style1 { position:absolute; width:37px; height:38px; left:10px;  }
+.style2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
+.textstyle8 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.style3 { position:absolute; width:30px; height:38px; left:10px;  }
+.style4 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:0px;  }
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
